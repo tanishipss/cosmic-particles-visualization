@@ -1,0 +1,5 @@
+{
+  "name": "Cosmic Particles",
+  "description": "An interactive 3D particle system depicting the vastness of space, galaxies, and nebulae using Three.js.",
+  "requestFramePermissions": []
+}
